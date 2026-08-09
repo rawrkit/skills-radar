@@ -35,6 +35,7 @@ A weekly job scans [skills.sh](https://skills.sh), GitHub, and community lists f
 | Skill | What it actually does | Roles | Installs |
 |---|---|---|---|
 | [empathy-in-action](https://github.com/rawrkit/empathy-in-action) `rawrkit` | Empathy through action, not words: the assistant picks up the rational load when emotions block reason — mirrors the user's register, never fakes capabilities, ticking-clock mode for live incidents | ALL | new |
+| [read-the-room](https://github.com/rawrkit/read-the-room) `rawrkit` | Reads memes and slang as real instructions — nine speech acts, honest about references it doesn't know, and the task still gets done | ALL | new |
 | [caveman](https://github.com/JuliusBrussee/caveman) `JuliusBrussee` | Caveman-speak compression: ~65% fewer output tokens, full technical accuracy kept | ALL | 805+ |
 | [negotiation-voss-tactical-empathy](https://skills.sh/santos-sanz/lifeskills/negotiation-voss-tactical-empathy) `santos-sanz/lifeskills` | Chris Voss negotiation techniques (tactical empathy, calibrated questions) applied to your negotiation prep | PO, SM | 43 |
 
