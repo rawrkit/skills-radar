@@ -57,6 +57,7 @@ A weekly job scans [skills.sh](https://skills.sh), GitHub, and community lists f
 | [requirements-clarity](https://skills.sh/softaworks/agent-toolkit/requirements-clarity) `softaworks/agent-toolkit` | Vague request → actionable PRD via YAGNI/KISS questioning | BA | 726 |
 | [deliver-acceptance-criteria](https://skills.sh/product-on-purpose/pm-skills/deliver-acceptance-criteria) `product-on-purpose/pm-skills` | Given/When/Then criteria: happy path, failures, non-functional | BA, QA | 667 |
 | [drawio-bpmn](https://skills.sh/sparklabx/drawio-ai-kit/drawio-bpmn) `sparklabx/drawio-ai-kit` | BPMN swimlane diagrams in draw.io with validation (needs drawio-ai CLI) | BA | 155 |
+| 🆕 [create-github-issues-for-unmet-specification-requirements](https://skills.sh/github/awesome-copilot/create-github-issues-for-unmet-specification-requirements) `github/awesome-copilot` | Reads a spec file, checks what's already implemented, files one GitHub Issue per unmet requirement — dedups against existing issues | BA, PO | 8.9K |
 
 ### 📊 Product & planning
 
@@ -67,6 +68,7 @@ A weekly job scans [skills.sh](https://skills.sh), GitHub, and community lists f
 | [user-story-mapping](https://skills.sh/deanpeters/product-manager-skills/user-story-mapping) `deanpeters/product-manager-skills` | Story mapping: from user journey to release slices | PO, BA | 2K |
 | [iterate-retrospective](https://skills.sh/product-on-purpose/pm-skills/iterate-retrospective) `product-on-purpose/pm-skills` | Facilitates and documents retros: went well / improve / action items | SM | 493 |
 | 🆕 [scrum-master](https://skills.sh/alirezarezvani/claude-skills/scrum-master) `alirezarezvani/claude-skills` | Data-driven Scrum coaching: Python scripts for Monte Carlo velocity forecasting, sprint health scoring, retro theme tracking from Jira-style exports | SM | 775 |
+| 🆕 [knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) `anthropics` | Official Anthropic plugin marketplace (11 plugins, 23K★): skills + MCP connectors + slash commands per role, incl. product-management (sprint-planning, roadmap-update, write-spec) and engineering (code-review, testing-strategy, incident-response) | ALL | — |
 
 ### 🧪 QA & testing
 
@@ -75,6 +77,7 @@ A weekly job scans [skills.sh](https://skills.sh), GitHub, and community lists f
 | [qa-test-planner](https://skills.sh/softaworks/agent-toolkit/qa-test-planner) `softaworks/agent-toolkit` | Test plans, manual cases, regression suites, bug reports | QA | 4.1K |
 | [accessibility-test-plan](https://skills.sh/owl-listener/designer-skills/accessibility-test-plan) `owl-listener/designer-skills` | Accessibility test plan for UI features | QA | 989 |
 | 🆕 [webapp-testing](https://skills.sh/anthropics/skills/webapp-testing) `anthropics/skills` | Official Anthropic skill: Playwright-driven testing of local web apps — screenshots, DOM inspection, browser console logs | QA, DEV | 129.2K |
+| 🆕 [browser-testing-with-devtools](https://skills.sh/addyosmani/agent-skills/browser-testing-with-devtools) `addyosmani/agent-skills` | Chrome DevTools MCP bridge: inspect the DOM, read console errors, analyze network requests, profile Core Web Vitals, verify a fix live instead of guessing (needs chrome-devtools MCP server) | QA, DEV | 20.2K |
 
 ### 📣 Marketing & growth
 
@@ -103,6 +106,7 @@ A weekly job scans [skills.sh](https://skills.sh), GitHub, and community lists f
 | 🆕 [code-review-excellence](https://skills.sh/wshobson/agents/code-review-excellence) `wshobson/agents` | Code review as knowledge-sharing, not gatekeeping: constructive-feedback patterns, review standards, mentoring through PRs | DEV | 26.3K |
 | 🆕 [documentation-writer](https://skills.sh/github/awesome-copilot/documentation-writer) `github/awesome-copilot` | Technical documentation structured with the Diátaxis framework — tutorials, how-to, reference, explanation | DEV | 24.4K |
 | 🆕 [context-engineering](https://skills.sh/addyosmani/agent-skills/context-engineering) `addyosmani/agent-skills` | Curates what an agent sees and when: rules files, context handoffs, diagnosing output degradation from context overload | DEV, ALL | 19.1K |
+| 🆕 [context7-mcp](https://skills.sh/upstash/context7/context7-mcp) `upstash/context7` | Fetches current library/framework docs via the Context7 MCP server instead of relying on stale training data — triggers on framework mentions and library-specific code requests (needs context7 MCP server) | DEV | 4.1K |
 
 ### 🖥️ Infrastructure
 
